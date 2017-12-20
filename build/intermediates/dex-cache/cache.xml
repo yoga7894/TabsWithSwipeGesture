@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yoga\AndroidStudioProjects\FragmentBASED\TabsWithSwipeGesture\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="190ba22d5c943072e11f68eb0480bdf945c2c4f6">
+        <dex dex="C:\Users\Yoga\AndroidStudioProjects\FragmentBASED\TabsWithSwipeGesture\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_29bf936c7bcec76428af3eb2c813dc7b5834a808\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yoga\AndroidStudioProjects\FragmentBASED\TabsWithSwipeGesture\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a96fcb52dfbe0f6c9ed6cd1c26f232991f1f21f0">
+        <dex dex="C:\Users\Yoga\AndroidStudioProjects\FragmentBASED\TabsWithSwipeGesture\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_5c89ab9fe4732bb4278f1cd2e01086d715231430\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yoga\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\Yoga\AndroidStudioProjects\FragmentBASED\TabsWithSwipeGesture\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_83a347080b20af14f02c51967c48eafa9104e392\classes.dex" />
+    </item>
+
+</items>

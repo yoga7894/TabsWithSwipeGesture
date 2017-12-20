@@ -1,0 +1,7 @@
+#Thu Aug 24 09:22:09 IST 2017
+base.0=C\:\\Users\\Yoga\\AndroidStudioProjects\\FragmentBASED\\TabsWithSwipeGesture\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_5c89ab9fe4732bb4278f1cd2e01086d715231430
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Yoga\\AndroidStudioProjects\\FragmentBASED\\TabsWithSwipeGesture\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_29bf936c7bcec76428af3eb2c813dc7b5834a808\\classes.dex
+base.1=C\:\\Users\\Yoga\\AndroidStudioProjects\\FragmentBASED\\TabsWithSwipeGesture\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_29bf936c7bcec76428af3eb2c813dc7b5834a808
+file.0=C\:\\Users\\Yoga\\AndroidStudioProjects\\FragmentBASED\\TabsWithSwipeGesture\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_5c89ab9fe4732bb4278f1cd2e01086d715231430\\classes.dex
